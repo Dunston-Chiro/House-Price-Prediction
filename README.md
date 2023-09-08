@@ -11,10 +11,10 @@ A simple yet challenging project, to predict the housing price based on certain 
 # Dataset-Description
 
 ## File descriptions
-<u> train.csv </u> - the training set
-<u> test.csv </u> - the test set
-<u> data_description.txt </u> - full description of each column, originally prepared by Dean De Cock but lightly edited to match the column names used here
-<u> sample_submission.csv </u> - a benchmark submission from a linear regression on year and month of sale, lot square footage, and number of bedrooms
+<u> train.csv </u> - the training set <br/>
+<u> test.csv </u> - the test set <br/>
+<u> data_description.txt </u> - full description of each column, originally prepared by Dean De Cock but lightly edited to match the column names used here <br/>
+<u> sample_submission.csv </u> - a benchmark submission from a linear regression on year and month of sale, lot square footage, and number of bedrooms <br/>
 
 ## Data fields
 Here's a brief version of what you'll find in the data description file.
